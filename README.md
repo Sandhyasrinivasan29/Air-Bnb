@@ -14,8 +14,7 @@ The objectives are to:
 
 # Different Python libraries used to complete this EDA:
 1.Pandas
-2.NumPy
-3.Matplotlib.Pyplot
+2.Matplotlib.Pyplot
 
 # Project Work flow
 1.Importing Libraries
